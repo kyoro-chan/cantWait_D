@@ -1,0 +1,69 @@
+body {  
+    font-family: "M PLUS Rounded 1c";
+    width:100%;
+    margin: 0;
+    color: darkslategrey;
+}
+
+
+.contaner {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title{
+    padding-top: 30px;
+}
+
+.btn{
+    font-size: large;
+    background-color: white;
+    border: 2px solid slategray;
+    margin:20px 0 5px 0;
+    box-shadow: 3px 3px rgb(89, 99, 109);
+    
+}
+
+.bnt:active{
+    box-shadow:none;
+    position:relative;
+    top:7px;
+}
+
+.character-firstline{
+    padding:0 10px
+}
+
+.character-secondline{
+    padding:0 10px
+}
+
+
+/* キャラクター同士の間隔 */
+.mickey, .minnie{
+    margin-top: 70px;
+}
+
+.donald, .dasy{
+    margin-top: 60px;
+} 
+
+.goofy, .roger{
+    margin-top: 40px;
+}
+
+.aliel{
+    margin-bottom: 60px;
+    margin-left: 50px;
+}
+
+.pluto{
+    margin-bottom: 60px;
+}
+
+.chipndale{
+    margin-bottom: 100px;
+}
