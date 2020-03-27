@@ -1,0 +1,121 @@
+@media (max-width: 1000px) { 
+
+    body{
+        height: 100%;
+    }
+    .contaner{
+        width: 100%;
+    }
+
+    .title-date{
+        padding-top: 100px;
+        font-size: 75px;
+    }
+
+    .btn{
+        font-size: 65px;
+        border-radius: 10px;
+        box-shadow: 5px 5px rgb(89, 99, 109);
+        margin-top: 60px;
+    }
+
+    /* キャラクターを再配置 */
+    .carpet{
+        position: absolute;
+        top: 400px;
+        left: 80px;
+        height: 250px;
+    }
+
+    .smee{
+        position: absolute;
+        top: 500px;
+        left: 280px;
+        height: 280px;
+    }
+
+    .melida{
+        position: absolute;
+        top: 510px;
+        right: 280px;
+        height: 280px;
+    }
+
+    .alice{
+        position: absolute;
+        top: 440px;
+        right: 80px;
+        height: 290px;
+    }
+
+    .ariel{
+        position: absolute;
+        top: 760px;
+        right: 110px;
+        height: 290px;
+    }
+    
+    .chipndale{
+        position: absolute;
+        top: 810px;
+        left: 400px;
+        height: 170px;
+    }
+    
+    .chindlella{
+        position: absolute;
+        top: 700px;
+        left: 120px;
+        height: 340px;
+    }
+    
+    .roger{
+        position: absolute;
+        top: 1000px;
+        left: 70px;
+        height: 350px;
+    }
+    
+    .goofy{
+        position: absolute;
+        top: 980px;
+        left: 300px;
+        height: 360px;
+    }
+    
+    .donald{
+        position: absolute;
+        top: 1020px;
+        right: 240px;
+        height: 300px;
+    }
+    
+    .dasy{
+        position: absolute;
+        top: 1050px;
+        right: 60px;
+        height: 300px;
+    }
+
+    .minnie{
+        position: absolute;
+        top: 1340px;
+        left: 130px;
+        height: 370px;
+    }
+    
+    .pluto{
+        position: absolute;
+        top: 1520px;
+        left: 350px;
+        height: 250px;
+    }
+    
+    .mickey{
+        position: absolute;
+        top: 1340px;
+        right: 150px;
+        height: 370px;
+    }
+    
+}
