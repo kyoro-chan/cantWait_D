@@ -34,13 +34,14 @@ body {
 }
 
 .character-firstline{
-    padding:0 10px
+    padding:0 10px;
+    display: none;
 }
 
 .character-secondline{
-    padding:0 10px
+    padding:0 10px;
+    display: none;
 }
-
 
 /* キャラクター同士の間隔 */
 .mickey, .minnie{
