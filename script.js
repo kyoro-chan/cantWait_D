@@ -27,7 +27,7 @@ $(function(){
         var windowWidth = $(window).width();
         var minWidth = 1000
 
-        if(count > 13){
+        if(count > 14){
             //画面の幅に対応する背景を設定
             if(windowWidth > minWidth){
                 $('.back').css('background-image', 'url(castle_forPC.jpg)').css('background-size', 'cover')
@@ -71,30 +71,34 @@ $(function(){
                 break;
 
             case 7:
-                $('.alice').fadeIn(300);
+                $('.bell').fadeIn(300);
                 break;
                 
             case 8:
                 $('.chindlella').fadeIn(300);
                 break;
-
+                
             case 9:
-                $('.roger').fadeIn(300);
+                $('.alice').fadeIn(300);
                 break;
 
             case 10:
+                $('.roger').fadeIn(300);
+                break;
+
+            case 11:
                 $('.smee').fadeIn(300);
                 break;
                 
-            case 11:
+            case 12:
                 $('.melida').fadeIn(300);
                 break;
 
-            case 12:
+            case 13:
                 $('.ariel').fadeIn(300);
                 break;
                 
-            case 13:
+            case 14:
                 $('.carpet').fadeIn(300);
                 break;
 			
