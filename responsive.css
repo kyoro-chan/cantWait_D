@@ -77,6 +77,13 @@
         height: 350px;
     }
     
+    .bell{
+        position: absolute;
+        top: 880px;
+        left: 40px;
+        height: 310px;
+    }
+    
     .goofy{
         position: absolute;
         top: 810px;
