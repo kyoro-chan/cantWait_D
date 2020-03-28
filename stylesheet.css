@@ -5,7 +5,6 @@ body {
     color: darkslategrey;
 }
 
-
 .contaner {
     width: 1170px;
     padding-right: 15px;
@@ -27,10 +26,9 @@ body {
     
 }
 
-.bnt:active{
-    box-shadow:none;
-    position:relative;
-    top:7px;
+.push-count{
+    padding-top: 20px;
+    font-size: 30px;
 }
 
 .character-firstline{
@@ -45,15 +43,15 @@ body {
 
 /* キャラクター同士の間隔 */
 .mickey, .minnie{
-    margin-top: 70px;
+    margin-top: 60px;
 }
 
 .donald, .dasy{
-    margin-top: 60px;
+    margin-top: 50px;
 } 
 
 .goofy, .roger{
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .aliel{
