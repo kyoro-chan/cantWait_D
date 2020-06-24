@@ -1,7 +1,7 @@
 $(function(){ 
 
     //再開園予定日を設定
-    var openDay = new Date('2020/04/20 00:00');
+    var openDay = new Date('2020/07/01 00:00');
 
     //日付を取得
     var today =new Date();
